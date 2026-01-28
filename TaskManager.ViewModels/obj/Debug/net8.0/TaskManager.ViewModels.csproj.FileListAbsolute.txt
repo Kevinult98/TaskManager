@@ -1,0 +1,17 @@
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\bin\Debug\net8.0\TaskManager.ViewModels.deps.json
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\bin\Debug\net8.0\TaskManager.ViewModels.dll
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\bin\Debug\net8.0\TaskManager.ViewModels.pdb
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\bin\Debug\net8.0\TaskManager.Data.dll
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\bin\Debug\net8.0\TaskManager.Domain.dll
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\bin\Debug\net8.0\TaskManager.Data.pdb
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\bin\Debug\net8.0\TaskManager.Domain.pdb
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\obj\Debug\net8.0\TaskManager.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\obj\Debug\net8.0\TaskManager.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\obj\Debug\net8.0\TaskManager.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\obj\Debug\net8.0\TaskManager.ViewModels.AssemblyInfo.cs
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\obj\Debug\net8.0\TaskManager.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\obj\Debug\net8.0\TaskMana.B0D284FC.Up2Date
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\obj\Debug\net8.0\TaskManager.ViewModels.dll
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\obj\Debug\net8.0\refint\TaskManager.ViewModels.dll
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\obj\Debug\net8.0\TaskManager.ViewModels.pdb
+C:\Users\Kevin_ult98\source\repos\TaskManager.UI\TaskManager.ViewModels\obj\Debug\net8.0\ref\TaskManager.ViewModels.dll
